@@ -14,3 +14,4 @@ Dependencies:
 before using the script, please install:
 
 * pybtex
+* pandas
